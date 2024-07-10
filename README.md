@@ -1,4 +1,9 @@
 # ACCENTURE-VIRTUAL-INTERSHIP
+TASK 1: Project Understanding
+TASK 2: Data Cleaning & Modeling
+TASK 3: Data Visualization & Stortelling
+TASK 4: Present to the Client
+
 Social Buzz, a rapidly growing anonymous social networking platform, leverages extensive data analysis to understand and enhance user engagement. This presentation will provide an overview of key insights and strategic recommendations to capitalize on user reactions and preferences.
 
 Sure! Here are the definitions for each term:
